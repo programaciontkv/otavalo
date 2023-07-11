@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+                    <autorizacion>
+		              <estado>AUTORIZADO</estado>
+		              <numeroAutorizacion>0402202301070464255200120010100000001051234567813</numeroAutorizacion>
+		              <fechaAutorizacion>2023-02-04T11:57:24-05:00</fechaAutorizacion>
+		              <ambiente>PRODUCCIÓN</ambiente>
+		              <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>OTAVALO UYAGUARI MANUEL EFRAIN</razonSocial>
+<nombreComercial>OTAVALO UYAGUARI MANUEL EFRAIN</nombreComercial>
+<ruc>0704642552001</ruc>
+<claveAcceso>0402202301070464255200120010100000001051234567813</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>010</ptoEmi>
+<secuencial>000000105</secuencial>
+<dirMatriz>AZUAY Y MACHALA</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>04/02/2023</fechaEmision>
+<dirEstablecimiento>AZUAY Y MACAHALA</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>REVO4TECH S.A.S.</razonSocialComprador>
+<identificacionComprador>0791840230001</identificacionComprador>
+<totalSinImpuestos>1025.81</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>1025.81</baseImponible>
+<valor>123.1</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>1148.91</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>1148.91</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>TOR.PUN.002</codigoPrincipal>
+<descripcion>TORNILLO PUNTA BROCA 8X1-2 X 1000</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>8.93</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>8.93</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>8.93</baseImponible>
+<valor>1.07</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>tor.hid.001</codigoPrincipal>
+<descripcion>TORNILLO 6X1 HIDO FINO CAJA MILLARES</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>6.25</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>12.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>12.5</baseImponible>
+<valor>1.5</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>rom.25 .001</codigoPrincipal>
+<descripcion>ROMERAL 25 KL</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>19.64</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>39.28</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>39.28</baseImponible>
+<valor>4.71</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>sik.mon.001</codigoPrincipal>
+<descripcion>SIKA EMPASTE INTERIOR MONOTOK</descripcion>
+<cantidad>15</cantidad>
+<precioUnitario>8.93</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>133.95</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>133.95</baseImponible>
+<valor>16.07</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>cla.3/4.001</codigoPrincipal>
+<descripcion>CLAVOS DE ACERO 3-4 100 UNIDADES MAXIMAR DGDIOLGOO</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>1.34</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>4.02</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>4.02</baseImponible>
+<valor>0.48</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>lla.tol.001</codigoPrincipal>
+<descripcion>LLANA MANGO DE CAUCHO</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>6.25</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>6.25</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>6.25</baseImponible>
+<valor>0.75</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>esp.n.5.001</codigoPrincipal>
+<descripcion>ESPATULAS N.5  MAVIJU</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>2.86</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>2.86</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>2.86</baseImponible>
+<valor>0.34</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>pun.cam.001</codigoPrincipal>
+<descripcion>PUNTA ESTRELLA CAMPANA  3-4</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>1.34</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.34</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>1.34</baseImponible>
+<valor>0.16</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>tij.tol.001</codigoPrincipal>
+<descripcion>TIJERA DE AVIASION TOLSEN</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>7.14</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>7.14</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>7.14</baseImponible>
+<valor>0.86</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>lij.150.001</codigoPrincipal>
+<descripcion>LIJA 150 DE AGUA</descripcion>
+<cantidad>18</cantidad>
+<precioUnitario>0.31</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>5.58</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>5.58</baseImponible>
+<valor>0.67</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>mol. a0.001</codigoPrincipal>
+<descripcion>MOLDURAS A021</descripcion>
+<cantidad>17</cantidad>
+<precioUnitario>6.25</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>106.25</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>106.25</baseImponible>
+<valor>12.75</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>tra.2 1.001</codigoPrincipal>
+<descripcion>TRACK 2 1-2 X 0.40 X 2.44</descripcion>
+<cantidad>27</cantidad>
+<precioUnitario>1.7</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>45.9</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>45.9</baseImponible>
+<valor>5.51</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>cin.mal.001</codigoPrincipal>
+<descripcion>CINTA MALLA DE FIBRA</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>3.13</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>9.39</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>9.39</baseImponible>
+<valor>1.13</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>pla.de .001</codigoPrincipal>
+<descripcion>PLANCHA DE GYPSUM ST</descripcion>
+<cantidad>29</cantidad>
+<precioUnitario>9.38</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>272.02</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>272.02</baseImponible>
+<valor>32.64</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>ang. pe.001</codigoPrincipal>
+<descripcion>ANGULO PERIMETRAL</descripcion>
+<cantidad>80</cantidad>
+<precioUnitario>0.8</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>64</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>64</baseImponible>
+<valor>7.68</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>ome.fur.001</codigoPrincipal>
+<descripcion>OMEGA FURRIM 3.60 X 0.40</descripcion>
+<cantidad>33</cantidad>
+<precioUnitario>2.32</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>76.56</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>76.56</baseImponible>
+<valor>9.19</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>.le.xma.001</codigoPrincipal>
+<descripcion>LED DE 12W REDONDO XMAX BLANCO</descripcion>
+<cantidad>21</cantidad>
+<precioUnitario>3.57</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>74.97</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>74.97</baseImponible>
+<valor>9</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>led.vic.001</codigoPrincipal>
+<descripcion>LED DE 3W REDONDO VICTORIA LED BLANCO</descripcion>
+<cantidad>12</cantidad>
+<precioUnitario>2.23</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>26.76</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>26.76</baseImponible>
+<valor>3.21</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>-le.vic.001</codigoPrincipal>
+<descripcion>LED DE 18W REDONDO VICTORIA LED BLANCO</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>4.46</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>4.46</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>4.46</baseImponible>
+<valor>0.54</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>man.cal.001</codigoPrincipal>
+<descripcion>MANGUERA LED 12V CALIDO</descripcion>
+<cantidad>29</cantidad>
+<precioUnitario>1.34</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>38.86</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>38.86</baseImponible>
+<valor>4.66</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>rol.14.001</codigoPrincipal>
+<descripcion>ROLLO CABLE N.14 FLEXIBLE</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>31.25</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>31.25</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>31.25</baseImponible>
+<valor>3.75</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>cin.3m .001</codigoPrincipal>
+<descripcion>CINTA AISLANTE 3M 3-4 X 19MM</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>0.89</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.78</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>1.78</baseImponible>
+<valor>0.21</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>con.110.001</codigoPrincipal>
+<descripcion>CONECTOR LED 2 PINES 110V</descripcion>
+<cantidad>4</cantidad>
+<precioUnitario>1.79</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>7.16</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>7.16</baseImponible>
+<valor>0.86</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>can.de .001</codigoPrincipal>
+<descripcion>CANAL DE CARGA 3.60 X 0.40</descripcion>
+<cantidad>20</cantidad>
+<precioUnitario>2.23</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>44.6</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>44.6</baseImponible>
+<valor>5.35</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">PASAJE</campoAdicional>
+<campoAdicional nombre="Telefono">0959619298</campoAdicional>
+<campoAdicional nombre="Email">revo4tech@gmail.com</campoAdicional>
+<campoAdicional nombre="Observaciones"> CONTRIBUYENTE REGIMEN RIMPE            </campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature22072">
+<ds:SignedInfo Id="Signature-SignedInfo507614">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID351372" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature22072-SignedProperties188222">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>y6D+3N3sEy1ONk5RWsYhI54WXmc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1813673">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>c+7QaP7vl6GJZ0E4CUQlMwcMct4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1004222" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>uN6JLITTC1YQRBYfBer/CWIiQI8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue457233">
+SoX6q4rgO1nUguBdUNtxi1P1PV/AM8NpId1qQJ5XzJY0GwuGC5BVMOoBuHdCsJWIB/sxw/4dgqa6
+l+SOzXRYfIdSUm28T6anghPxcRalusOZJDOO4b2yKw3vXcH6VC88tAE/gg4ee+HvCOpjxloSDVqe
+6yDHtS9+xrybCEIJsO6ZY7Jw+615mtajY5W4dDPsZM317fqKS6zqlYukJp1KNLVK4ebYMJIySze+
+Q4x544ST6slX3rN5ZzOggJ4CJmooq2MiPyYw3DgzTPOMgAcvoSi0i2sfBTFOfeZJZrt2PqCIkqtg
+vUtb7MURbUsSCRXG9z9Wq7sLDN0AwLxPruZLYg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1813673">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJHTCCBwWgAwIBAgIIA64Dl8/IB1swDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMTEyODE2MjkwMFoXDTIzMTEyODE2MjkwMFowgaIxCzAJBgNVBAYTAkVDMRkwFwYDVQQEDBBP
+VEFWQUxPIFVZQUdVQVJJMRYwFAYDVQQqDA1NQU5VRUwgRUZSQUlOMRkwFwYDVQQFExBJRENFQy0w
+NzA0NjQyNTUyMScwJQYDVQQDDB5NQU5VRUwgRUZSQUlOIE9UQVZBTE8gVVlBR1VBUkkxHDAaBgNV
+BGEME1RJTkVDLTA3MDQ2NDI1NTIwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDT
+E73H7lo4YnG2O6zmfCJOD0nTk/S23Vax61ADk/14DHY8GcF94lkJHSlzDw3SPjp8HTb7BXS5HR1q
+fTWA1CffKh5FFysU7fpulU7O+uV0sz4h9Hgz50K8Euo8uxRIQVeVRnAKxDrnsWQeuMlkEiVg4IXD
+ZPzUGOTSuRT/pdNBi5h6/w6zJxop1Yw2L3f7C1OBPRsCGkxLcu9ctFlkg2ABhHHH9UvWEJrrrZdv
+K8f0p2ORZTFxJ579rIzka96nhi/gDz+ht2lkg1g05605EdewHOoS1bslHMpW6K4eycB1iEHaSSBz
+kxjC8IgeZilsDAx9CfNmTF0hTuJk1OofYG1DAgMBAAGjggQ9MIIEOTAbBgsrBgEEAYLxNmYDAQQM
+DAowNzA0NjQyNTUyMB4GCysGAQQBgvE2ZgMLBA8MDTA3MDQ2NDI1NTIwMDEwgdcGCCsGAQUFBwEB
+BIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxv
+YWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8v
+b2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9v
+Y3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUY2Vo0zL+nysu+H1K
+W/C/k+gORJowDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCB
+mQYDVR0gBIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FE
+TyBERSBQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECg
+PqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5h
+ZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Ey
+c3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYB
+BQUHAwQwggFzBgNVHREEggFqMIIBZoEZY2ludGh5YWd1em1hbjIwQGdtYWlsLmNvbaAbBgsrBgEE
+AYLxNmYDAaAMDAowNzA0NjQyNTUyoB4GCysGAQQBgvE2ZgMCoA8MDU1BTlVFTCBFRlJBSU6gGAYL
+KwYBBAGC8TZmAwOgCQwHT1RBVkFMT6AZBgsrBgEEAYLxNmYDBKAKDAhVWUFHVUFSSaAjBgsrBgEE
+AYLxNmYDB6AUDBJBWlVBWSBTTiBZIE1BQ0hBTEGgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5ODEy
+NjI5MzegFwYLKwYBBAGC8TZmAwmgCAwGUEFTQUpFoB4GCysGAQQBgvE2ZgMLoA8MDTA3MDQ2NDI1
+NTIwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgKQYLKwYBBAGC8TZmAzKgGgwYUEVSU09OQSBOQVRV
+UkFMIE8gRklTSUNBoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQELBQADggIB
+AIzroonaHzHDk4uas6PNNZok0DNkrS7lGBZwzZem6G8pk5Fapr/ddUZj1ULK6NZNmV2CimmLqZDE
+c5MZRg1lQvGf2HBLABDUi1lQPvpa/Y9MBvQJS+9u/qVVNqT/FA20lUvUjxoQr1ONKfUVAgyTuDdw
++xyjoe0h5QbpcpkZJ83kUK85sMtCWfnWf1tyO5hBXh9HsWXgX2YNpRsIX7XDlSqPKd5/K/G64UXh
+VkQyL2jm0Uyvi4uxvxct3JKqrEr66d1AkTV9r6P5lhHFJ9KS7VGZKODE4eBI2TEq8NWzafj4MDIy
+PdLrNg2ZWu4z36D2eWsXbqDXuCi4e8rfep8++Dku1v2w1PJWwS14vVGawt6PJX4WFLalKXrdFA7b
+gcWXl/htUD5Z02WWtmAT65UZUSgWNKrgozBYuUi5SQUcKiMnSwBq5L0HV9YGJwqP9KG8iOhxExYS
+1+FlcWUcPlHpZlR4Ls0NlBmZ50YBYoin/wbQIIYE+bwzFCfI8wdbdGa0HT39xQfEgbUjbl3qcpz8
+ugFYD1ODyEqnd7WhdoUw8LTm6cMfqxvWZbtX78rJuR1UDX4EWvnSj/R3UN/68CQu+ucyIz/sCHf6
+5cYThX5Fq8u94gH5oYgMyXRw4He9AW2eqfoUyR1m6v0DNHCsti45Flx5Y+6TMwtqC5nGMa5S4w35
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+0xO9x+5aOGJxtjus5nwiTg9J05P0tt1WsetQA5P9eAx2PBnBfeJZCR0pcw8N0j46fB02+wV0uR0d
+an01gNQn3yoeRRcrFO36bpVOzvrldLM+IfR4M+dCvBLqPLsUSEFXlUZwCsQ657FkHrjJZBIlYOCF
+w2T81Bjk0rkU/6XTQYuYev8OsycaKdWMNi93+wtTgT0bAhpMS3LvXLRZZINgAYRxx/VL1hCa662X
+byvH9KdjkWUxcSee/ayM5Gvep4Yv4A8/obdpZINYNOetORHXsBzqEtW7JRzKVuiuHsnAdYhB2kkg
+c5MYwvCIHmYpbAwMfQnzZkxdIU7iZNTqH2BtQw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature22072-Object58808"><etsi:QualifyingProperties Target="#Signature22072"><etsi:SignedProperties Id="Signature22072-SignedProperties188222"><etsi:SignedSignatureProperties><etsi:SigningTime>2023-02-04T11:57:20-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Cp3gDp3orjcBCdk/e9RE0qE4wVA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>265153378622375771</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1004222"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+                    	<mensajes/>
+                    </autorizacion>

@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+              <ns2:RespuestaAutorizacion xsi:type='ns2:autorizacion' xmlns:ns2='http://ec.gob.sri.ws.autorizacion' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+              <estado>AUTORIZADO</estado>
+              <numeroAutorizacion>1312202201070464255200120010100000000141234567819</numeroAutorizacion>
+              <fechaAutorizacion>2022-12-13T16:11:59-05:00</fechaAutorizacion>
+              <ambiente>PRODUCCIÓN</ambiente>
+              <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>OTAVALO UYAGUARI MANUEL EFRAIN</razonSocial>
+<nombreComercial>OTAVALO UYAGUARI MANUEL EFRAIN</nombreComercial>
+<ruc>0704642552001</ruc>
+<claveAcceso>1312202201070464255200120010100000000141234567819</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>010</ptoEmi>
+<secuencial>000000014</secuencial>
+<dirMatriz>AZUAY Y MACHALA</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>13/12/2022</fechaEmision>
+<dirEstablecimiento>AZUAY Y MACAHALA</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>NAGUA SANDOVAL MARY ELIZABETH</razonSocialComprador>
+<identificacionComprador>0705104511001</identificacionComprador>
+<totalSinImpuestos>282.42</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>282.42</baseImponible>
+<valor>33.89</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>316.31</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>316.31</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>cor.bla.001</codigoPrincipal>
+<descripcion>CORNISA PVC BLANCO</descripcion>
+<cantidad>7</cantidad>
+<precioUnitario>5.36</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>37.52</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>37.52</baseImponible>
+<valor>4.5</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>ang. pe.001</codigoPrincipal>
+<descripcion>ANGULO PERIMETRAL</descripcion>
+<cantidad>15</cantidad>
+<precioUnitario>0.8</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>12</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>12</baseImponible>
+<valor>1.44</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>can.de .001</codigoPrincipal>
+<descripcion>CANAL DE CARGA 3.60 X 0.40</descripcion>
+<cantidad>6</cantidad>
+<precioUnitario>2.32</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>13.92</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>13.92</baseImponible>
+<valor>1.67</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>ome.fur.001</codigoPrincipal>
+<descripcion>OMEGA FURRIM 3.60 X 0.40</descripcion>
+<cantidad>8</cantidad>
+<precioUnitario>2.32</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>18.56</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>18.56</baseImponible>
+<valor>2.23</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>cla.3/4.001</codigoPrincipal>
+<descripcion>CLAVOS DE ACERO 3-4 100 UNIDADES MAXIMAR DGDIOLGOO</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>1.07</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>2.14</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>2.14</baseImponible>
+<valor>0.26</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>-le.vic.001</codigoPrincipal>
+<descripcion>LED DE 18W REDONDO VICTORIA LED BLANCO</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>4.46</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>8.92</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>8.92</baseImponible>
+<valor>1.07</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>.le.xma.001</codigoPrincipal>
+<descripcion>LED DE 12W REDONDO XMAX BLANCO</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>3.57</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>7.14</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>7.14</baseImponible>
+<valor>0.86</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>led. 3w.001</codigoPrincipal>
+<descripcion>LED STOP REDONDO 3W AMARILLO DIRIGIBLE</descripcion>
+<cantidad>6</cantidad>
+<precioUnitario>2.23</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>13.38</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>13.38</baseImponible>
+<valor>1.61</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>due.bla.001</codigoPrincipal>
+<descripcion>DUELA PVC BLANCO 595X025</descripcion>
+<cantidad>18</cantidad>
+<precioUnitario>9.38</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>168.84</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>168.84</baseImponible>
+<valor>20.26</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">PASAJE </campoAdicional>
+<campoAdicional nombre="Telefono">0999372667</campoAdicional>
+<campoAdicional nombre="Email">nagua_elizabeth@yahoo.com</campoAdicional>
+<campoAdicional nombre="Observaciones"> CONTRIBUYENTE REGIMEN RIMPE            </campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature356279">
+<ds:SignedInfo Id="Signature-SignedInfo387360">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID343014" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature356279-SignedProperties872349">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>YhaMWfmSRW6U+04mJdKG8SP0wks=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1996476">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>hmYPo+dxRjDXH0G10p6iXK8fR7g=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-132508" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>yqoJ/zc7k/2s8n8DdFkCSWEIh70=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue597104">
+VWvCD4C30v5fZFjIvsBWYKirKI/TNfqE/wC2OLyQCD3dI68Lz25vr4G0vcmfm8+dUp0JMHki6NrM
+2336jP7XNzNjw7JEZk6iz5WVIFOZctSK3wdkEHIwrh7i4qB9rptH+vt+vMChXcBbT9SV8AJjNaEU
+nxF24Vy5jXC5P3Ck4ozIWDKbaX+A74fvWMz2VNwdxsZ5uxmLWH+H15NtdksElzKFllYB4gOCYE4b
+HNuQiEpOjwTmYoyEb49CalkIaBVig+Nlgy4EYEbjRdD31j3JDH8uataaJHr+/YErRRjOkrSr4JMu
+jDBWCe0HpMmvfZWHqs7e/ncbLiSIT7wo+o4sRA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1996476">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJHTCCBwWgAwIBAgIIA64Dl8/IB1swDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMTEyODE2MjkwMFoXDTIzMTEyODE2MjkwMFowgaIxCzAJBgNVBAYTAkVDMRkwFwYDVQQEDBBP
+VEFWQUxPIFVZQUdVQVJJMRYwFAYDVQQqDA1NQU5VRUwgRUZSQUlOMRkwFwYDVQQFExBJRENFQy0w
+NzA0NjQyNTUyMScwJQYDVQQDDB5NQU5VRUwgRUZSQUlOIE9UQVZBTE8gVVlBR1VBUkkxHDAaBgNV
+BGEME1RJTkVDLTA3MDQ2NDI1NTIwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDT
+E73H7lo4YnG2O6zmfCJOD0nTk/S23Vax61ADk/14DHY8GcF94lkJHSlzDw3SPjp8HTb7BXS5HR1q
+fTWA1CffKh5FFysU7fpulU7O+uV0sz4h9Hgz50K8Euo8uxRIQVeVRnAKxDrnsWQeuMlkEiVg4IXD
+ZPzUGOTSuRT/pdNBi5h6/w6zJxop1Yw2L3f7C1OBPRsCGkxLcu9ctFlkg2ABhHHH9UvWEJrrrZdv
+K8f0p2ORZTFxJ579rIzka96nhi/gDz+ht2lkg1g05605EdewHOoS1bslHMpW6K4eycB1iEHaSSBz
+kxjC8IgeZilsDAx9CfNmTF0hTuJk1OofYG1DAgMBAAGjggQ9MIIEOTAbBgsrBgEEAYLxNmYDAQQM
+DAowNzA0NjQyNTUyMB4GCysGAQQBgvE2ZgMLBA8MDTA3MDQ2NDI1NTIwMDEwgdcGCCsGAQUFBwEB
+BIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxv
+YWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8v
+b2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9v
+Y3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUY2Vo0zL+nysu+H1K
+W/C/k+gORJowDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCB
+mQYDVR0gBIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FE
+TyBERSBQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECg
+PqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5h
+ZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Ey
+c3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYB
+BQUHAwQwggFzBgNVHREEggFqMIIBZoEZY2ludGh5YWd1em1hbjIwQGdtYWlsLmNvbaAbBgsrBgEE
+AYLxNmYDAaAMDAowNzA0NjQyNTUyoB4GCysGAQQBgvE2ZgMCoA8MDU1BTlVFTCBFRlJBSU6gGAYL
+KwYBBAGC8TZmAwOgCQwHT1RBVkFMT6AZBgsrBgEEAYLxNmYDBKAKDAhVWUFHVUFSSaAjBgsrBgEE
+AYLxNmYDB6AUDBJBWlVBWSBTTiBZIE1BQ0hBTEGgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5ODEy
+NjI5MzegFwYLKwYBBAGC8TZmAwmgCAwGUEFTQUpFoB4GCysGAQQBgvE2ZgMLoA8MDTA3MDQ2NDI1
+NTIwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgKQYLKwYBBAGC8TZmAzKgGgwYUEVSU09OQSBOQVRV
+UkFMIE8gRklTSUNBoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQELBQADggIB
+AIzroonaHzHDk4uas6PNNZok0DNkrS7lGBZwzZem6G8pk5Fapr/ddUZj1ULK6NZNmV2CimmLqZDE
+c5MZRg1lQvGf2HBLABDUi1lQPvpa/Y9MBvQJS+9u/qVVNqT/FA20lUvUjxoQr1ONKfUVAgyTuDdw
++xyjoe0h5QbpcpkZJ83kUK85sMtCWfnWf1tyO5hBXh9HsWXgX2YNpRsIX7XDlSqPKd5/K/G64UXh
+VkQyL2jm0Uyvi4uxvxct3JKqrEr66d1AkTV9r6P5lhHFJ9KS7VGZKODE4eBI2TEq8NWzafj4MDIy
+PdLrNg2ZWu4z36D2eWsXbqDXuCi4e8rfep8++Dku1v2w1PJWwS14vVGawt6PJX4WFLalKXrdFA7b
+gcWXl/htUD5Z02WWtmAT65UZUSgWNKrgozBYuUi5SQUcKiMnSwBq5L0HV9YGJwqP9KG8iOhxExYS
+1+FlcWUcPlHpZlR4Ls0NlBmZ50YBYoin/wbQIIYE+bwzFCfI8wdbdGa0HT39xQfEgbUjbl3qcpz8
+ugFYD1ODyEqnd7WhdoUw8LTm6cMfqxvWZbtX78rJuR1UDX4EWvnSj/R3UN/68CQu+ucyIz/sCHf6
+5cYThX5Fq8u94gH5oYgMyXRw4He9AW2eqfoUyR1m6v0DNHCsti45Flx5Y+6TMwtqC5nGMa5S4w35
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+0xO9x+5aOGJxtjus5nwiTg9J05P0tt1WsetQA5P9eAx2PBnBfeJZCR0pcw8N0j46fB02+wV0uR0d
+an01gNQn3yoeRRcrFO36bpVOzvrldLM+IfR4M+dCvBLqPLsUSEFXlUZwCsQ657FkHrjJZBIlYOCF
+w2T81Bjk0rkU/6XTQYuYev8OsycaKdWMNi93+wtTgT0bAhpMS3LvXLRZZINgAYRxx/VL1hCa662X
+byvH9KdjkWUxcSee/ayM5Gvep4Yv4A8/obdpZINYNOetORHXsBzqEtW7JRzKVuiuHsnAdYhB2kkg
+c5MYwvCIHmYpbAwMfQnzZkxdIU7iZNTqH2BtQw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature356279-Object827311"><etsi:QualifyingProperties Target="#Signature356279"><etsi:SignedProperties Id="Signature356279-SignedProperties872349"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-12-13T16:12:01-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Cp3gDp3orjcBCdk/e9RE0qE4wVA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>265153378622375771</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-132508"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+              <mensajes/>
+              </ns2:RespuestaAutorizacion>
